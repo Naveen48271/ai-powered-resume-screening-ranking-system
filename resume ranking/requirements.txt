@@ -1,0 +1,4 @@
+# Add your project dependencies here
+# Example:
+# Flask==2.0.3
+# scikit-learn==1.0.2
